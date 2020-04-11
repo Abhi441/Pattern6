@@ -20,6 +20,7 @@ public class Test {
 			while (csp <= nsp) {
 				System.out.print(" ");
 				csp++;
+				}
 				
 				//work stars
 				int cst = 1;
@@ -39,4 +40,4 @@ public class Test {
 			}
 	}
 
-}
+
